@@ -218,3 +218,14 @@ Known Limitations
 - **Maze generation**: Very large mazes (>200×200) may be slow to generate and solve.
 - **15-puzzle solvability**: Half of all random 15-puzzle configurations are mathematically unsolvable (due to permutation parity). The GUI correctly identifies these.
 
+## Contributors
+
+- Jana Elhadidy
+- Amr Maarouf
+- Mostafa Shehata
+- Ayatullah Mohamed
+- Omar Hussein
+- Hoor Amir
+- Mohamed Elaraby
+- Yomna Ayman
+- Farah Elsaid
