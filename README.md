@@ -229,3 +229,7 @@ Known Limitations
 - Mohamed Elaraby
 - Yomna Ayman
 - Farah Elsaid
+
+## License
+
+Released under the [MIT License](LICENSE).
